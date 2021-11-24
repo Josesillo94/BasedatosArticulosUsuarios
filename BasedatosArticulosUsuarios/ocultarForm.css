@@ -1,0 +1,10 @@
+form{
+    display: none;
+}
+.texto__oculto{
+    display: block;
+    
+}
+#volver__oculto{
+    display: block;
+}

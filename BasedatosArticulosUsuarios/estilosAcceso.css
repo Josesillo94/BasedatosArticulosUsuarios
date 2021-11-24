@@ -1,0 +1,45 @@
+button{
+    border: 2px solid #497889;
+    background: #66A5BB;
+    float: left;
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+    margin-left: 300px;
+
+    
+    
+    
+    
+    
+}
+a{
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+.div{
+    background: #CAE1E4;
+    height: 200px;
+    width: 700px;
+    border: 5px solid #94A5A7;
+    
+    
+}
+
+.div__interno{
+    float: left;
+    border: 2px solid #497889;
+    background: #66A5BB;
+    padding: 10px;
+    width: 40%;
+    margin: 20px;
+    text-align: center;
+    vertical-align: middle;
+    color: #FFF;
+    font-weight: bold;
+    padding-bottom: 20px;
+    
+    
+}

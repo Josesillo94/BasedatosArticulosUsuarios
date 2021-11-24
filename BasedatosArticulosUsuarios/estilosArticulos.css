@@ -1,0 +1,63 @@
+.div{
+    background: #CAE1E4;
+    border: 5px solid #94A5A7;
+    width: 50%;
+}
+.desplazador__izd{
+    color: #FFF;
+    font-size: 16px;
+    font-weight: bold;
+    background: #66A5BB;
+    border: 2px solid #497889;
+    display: inline-block;
+    margin: 20px;
+    
+
+}
+.desplazador_dch{
+    color: #FFF;
+    font-size: 16px;
+    font-weight: bold;
+    background: #66A5BB;
+    border: 2px solid #497889;
+    margin-left: 230px;
+
+    
+    
+
+}
+button{
+    background: #CAE1E4;
+    border: 2px solid #94A5A7;
+}
+.div__crear{
+    background: #66A5BB;
+    border: 2px solid #497889;
+    margin: 10px;
+    padding: 5px;
+    display: inline-block;
+}
+a{
+    color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+}
+.label__manejo{
+    background: #CAE1E4;
+    border: 2px solid #94A5A7;
+}
+.icono{
+    color: #000;
+}
+.manejoform{
+    display: inline;
+    
+    
+}
+.infodetallada{
+    display: none;
+}
+table{
+    border: 2px solid #94A5A7;
+}
+

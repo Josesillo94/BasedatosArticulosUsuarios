@@ -1,0 +1,106 @@
+form{
+    background: #CAE1E4;
+    height: 350px;
+    width: 400px;
+    border: 5px solid #94A5A7;
+}
+div{
+    text-align: center;
+    margin-top: 5px;
+}
+.div__id{
+    margin-left: 28px;
+    padding-top: 10px;
+    
+}
+
+.div__nombre{
+    margin-left: 5px;
+}
+.div__coste{
+    margin-left: 15px;
+}
+.div__precio{
+    margin-left: 7px;
+}
+input{
+    width: 60%;
+    margin-left: 20px;
+    border: 2px solid #94A5A7;
+    
+}
+#input{
+    width: 60%;
+    margin-left: 10px;
+    border: 2px solid #94A5A7;
+    
+}
+p{
+    font-weight: bold;
+    padding-top: 10px;
+    text-align: center;
+}
+.volver{
+    color: #FFF;
+    font-size: 16px;
+    font-weight: bold;
+    background: #66A5BB;
+    border: 2px solid #497889;
+    display: inline-block;
+    margin: 20px;
+    margin-left: 70px;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+    color: #FFF;
+}
+.añadir__value{
+    color: #FFF;
+    font-size: 16px;
+    font-weight: bold;
+    background: #66A5BB;
+    border: 2px solid #497889;
+    width: 40%;
+    padding: 5px;
+    
+    
+    
+}
+.texto__oculto{
+    font-weight: bold;
+    padding-top: 10px;
+    margin-left: 40px;
+    display: none;
+    
+}
+#volver__oculto{
+    color: #FFF;
+    font-size: 16px;
+    font-weight: bold;
+    background: #66A5BB;
+    border: 2px solid #497889;
+    display: inline-block;
+    margin: 20px;
+    margin-left: 70px;
+    padding: 5px;
+    display: none;
+}
+.texto__oculto-modificar{
+    font-weight: bold;
+    padding-top: 10px;
+    margin-left: 40px;
+    display: none;
+
+}
+.texto__oculto-borrar{
+    font-weight: bold;
+    padding-top: 10px;
+    margin-left: 40px;
+    display: none;
+
+}
+.div__autorizado{
+    font-size: 20px;
+}
+

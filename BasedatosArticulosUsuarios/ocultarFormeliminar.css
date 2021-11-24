@@ -1,0 +1,16 @@
+form{
+    display: none;
+}
+.texto__oculto{
+    display: none;
+    
+}
+#volver__oculto{
+    display: block;
+}
+.texto__oculto-modificar{
+    display: none;
+}
+.texto__oculto-borrar{
+    display: block;
+}
